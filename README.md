@@ -111,7 +111,3 @@ To create a GitHub repository and push this project:
 
 ## License
 This project is licensed under the MIT License.
-
-## Acknowledgements
-- Design inspiration from Figma community templates
-- Icons from Material Design and custom assets
